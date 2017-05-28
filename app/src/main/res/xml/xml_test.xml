@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab
+        color="@color/colorPrimary"
+        icon="@drawable/ic_home_black_24dp"
+        title="Home" />
+    <tab
+        color="@color/tabColorThree"
+        icon="@drawable/ic_whatshot_black_24dp"
+        title="Trending" />
+    <tab
+        color="@color/tabColorTwo"
+        icon="@drawable/ic_location_black_24dp"
+        title="Near Me" />
+    <tab
+        color="@color/colorAccent"
+        icon="@drawable/ic_chat_black_24dp"
+        title="Messages" />
+    <tab
+        color="@color/tabColorOne"
+        icon="@drawable/ic_notifications_black_24dp"
+        title="Notifications" />
+
+</tabs>
